@@ -1,1 +1,1 @@
-## Implementing of K-means for clustering from scratch
+## Implementing of K-means for clustering from scratch.
