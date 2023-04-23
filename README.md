@@ -4,8 +4,8 @@
 This is an implementation of K-means clustering algorithm using Scikit-learn, a popular machine learning library for Python. Scikit-learn provides an efficient implementation of K-means algorithm that can be easily used for clustering tasks.
 
 ## Files
-k_means_sklearn.py: Python script that contains the implementation of K-means clustering algorithm using Scikit-learn.
-data.csv: Sample dataset for clustering.
+clustering.ipynb: Python script that contains the implementation of K-means clustering algorithm using Scikit-learn.
+Players.csv: Sample dataset for clustering.
 
 ## Dependencies
 Python 3.x
@@ -15,7 +15,7 @@ Matplotlib
 ## Usage
 Clone the repository to your local machine.
 Navigate to the repository directory.
-Open the terminal and run the command python k_means_sklearn.py.
+Open the terminal and run the command python clustering.ipynb.
 The script will load the sample dataset from data.csv and apply the K-means algorithm with K=3 using Scikit-learn.
 The script will plot the resulting clusters and save the plot as output.png in the same directory.
 ## Customization
